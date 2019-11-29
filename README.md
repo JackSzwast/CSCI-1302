@@ -15,6 +15,8 @@ Features:
 How to Use:
   To use this simply go to the "MyTestClass" and click on run at the top of the screen or press ctrl + f11. Make sure that the classes Searching and Sorting are in the same project
   
+Install:
+  Create a new java project in ecclipse, create the mentioned classes within the project. Then copy and paste the code into the classes.
 
 Contributors:
   Jack Szwast
